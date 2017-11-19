@@ -2,13 +2,13 @@
 
 Maquetación y estilizado en HTML y CSS de un sitio web.
 
-## Información del sitio:
+### Información del sitio:
 
-### Nombre del sitio:
+#### Nombre del sitio:
 
 City@Nite
 
-### Descripción del sitio:
+#### Descripción del sitio:
 
 El sitio proveerá de información sobre locales y centros de entretenimiento nocturno. Eventos especiales, información sobre promociones, artistas, etc.
 

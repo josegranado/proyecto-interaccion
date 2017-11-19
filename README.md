@@ -6,7 +6,7 @@ Maquetación y estilizado en HTML y CSS de un sitio web.
 
 El sitio proveerá de información sobre locales y centros de entretenimiento nocturno. Eventos especiales, información sobre promociones, artistas, etc.
 
-#Integrantes:
+# Integrantes:
 
 * Negrin, Juan.
 * Restrepo, Romario.

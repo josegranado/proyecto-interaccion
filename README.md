@@ -14,5 +14,6 @@ El sitio proveerá de información sobre locales y centros de entretenimiento no
 
 ## Integrantes:
 
+* Granado, Jose
 * Negrin, Juan.
-* Restrepo, Romario.
+* Umerez, Iker.
